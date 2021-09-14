@@ -4,6 +4,6 @@
 
 #### 사용 => ChattingApp errorPage
 
-https://github.com/webcogy/errorMonster/settings/pages
+https://webcogy.github.io/errorMonster/
 
 by Codepen
